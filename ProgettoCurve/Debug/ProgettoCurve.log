@@ -1,0 +1,20 @@
+﻿  ProgettoCurve.cpp
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(79): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(112): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(175): warning C4018: '>=': errata corrispondenza tra signed e unsigned
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(259): warning C4018: '<': errata corrispondenza tra signed e unsigned
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(262): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(285): warning C4305: '+=': troncamento da 'double' a 'float'
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(288): warning C4305: '-=': troncamento da 'double' a 'float'
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(292): warning C4305: '+=': troncamento da 'double' a 'float'
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(295): warning C4305: '-=': troncamento da 'double' a 'float'
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(298): warning C4305: '+=': troncamento da 'double' a 'float'
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(301): warning C4305: '-=': troncamento da 'double' a 'float'
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(320): warning C4305: '+=': troncamento da 'double' a 'float'
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(324): warning C4305: '-=': troncamento da 'double' a 'float'
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(327): warning C4305: '=': troncamento da 'double' a 'float'
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(416): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(417): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+c:\users\agnohendrix\source\repos\progettocurve\progettocurve\progettocurve.cpp(433): warning C4326: il tipo restituito di 'main' dovrebbe essere 'int' invece di 'void'
+     Creazione della libreria C:\Users\Agnohendrix\source\repos\ProgettoCurve\Debug\ProgettoCurve.lib e dell'oggetto C:\Users\Agnohendrix\source\repos\ProgettoCurve\Debug\ProgettoCurve.exp
+  ProgettoCurve.vcxproj -> C:\Users\Agnohendrix\source\repos\ProgettoCurve\Debug\ProgettoCurve.exe
